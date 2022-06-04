@@ -17,7 +17,6 @@ It is an Spring based Web Application which is exposed using a micro-service whi
 			-name (optional) : In order to look for a specific item, name can be provided to search from the list
 		(NOTE : If only type is provided, response will contain list of all the available objects)
 		
-<img width="786" alt="image" src="https://user-images.githubusercontent.com/5252807/172023278-7c86d92b-81e9-4183-9955-25563fac57ab.png">
-
+<img width="843" alt="image" src="https://user-images.githubusercontent.com/5252807/172023401-87eadd21-48cb-4326-9c53-feda781874b0.png">
 		
 		
