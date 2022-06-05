@@ -1,4 +1,4 @@
-package com.starwars.rest.common;
+package com.starwars.rest.http;
 
 import java.net.URI;
 import java.net.http.HttpClient;
@@ -10,6 +10,8 @@ import java.util.logging.Logger;
 import javax.ws.rs.core.UriBuilder;
 
 import org.springframework.stereotype.Component;
+
+import com.starwars.rest.common.AppConstants;
 
 
 /*

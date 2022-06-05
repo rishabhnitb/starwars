@@ -9,7 +9,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 
 import com.starwars.rest.common.AppConstants;
-import com.starwars.rest.common.HttpHandler;
+import com.starwars.rest.http.HttpHandler;
 import com.starwars.rest.services.StarWarsService;
 
 @Service
